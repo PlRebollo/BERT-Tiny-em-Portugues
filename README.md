@@ -4,8 +4,8 @@ Fine-Tuning e Destilação do BERT-tiny para Português Brasileiro
 Este repositório apresenta o processo completo de adaptação do modelo BERT-tiny para o português brasileiro utilizando técnicas de destilação de conhecimento, tendo o BERTimbau-base como modelo professor. O objetivo é produzir um modelo leve, rápido e eficiente, capaz de compreender português mantendo parte da capacidade representacional de um modelo maior.
 
 O repositório inclui:
-- `destilacao_parcial.ipynb` – destilação mantendo o vocabulário original do aluno.
-- `destilacao_total.ipynb` – destilação reconstruindo completamente o aluno com o vocabulário do professor.
+- [destilacao_parcial.ipynb](https://colab.research.google.com/drive/1Vxpov542eqtSRSYubkAmuhDfj9Yz5CRO?usp=sharing) – destilação mantendo o vocabulário original do aluno.
+- [destilacao_total.ipynb](https://colab.research.google.com/drive/1QsMtRQtvYV0b8XWA2gPhjIqNwSBBP_lB?usp=sharing) – destilação reconstruindo completamente o aluno com o vocabulário do professor.
 - Relatório com metodologia, experimentos e conclusões.
 
 ---
