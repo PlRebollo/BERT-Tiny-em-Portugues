@@ -105,6 +105,3 @@ Entretanto, a transferência da capacidade semântica profunda não foi totalmen
 
 Destilar um modelo pequeno exige mais do que aproximar logits e embeddings; é necessário considerar limitações arquiteturais e estratégias específicas para preservar semântica profunda.
 
----
-# BERT-Tiny-em-Português
-Destilação do BERTimbau para o BERT-Tiny
